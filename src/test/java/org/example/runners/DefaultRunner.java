@@ -1,2 +1,4 @@
-package org.example.runners;public class DefaultRunner {
+package org.example.runners;
+
+public class DefaultRunner {
 }
